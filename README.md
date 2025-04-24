@@ -137,12 +137,6 @@ CREATE INDEX idx_order_items_product_id ON order_items(product_id);
 
 ---
 
-## 📸 Screenshots
-
-📷 Screenshots of all outputs (queries and results) are included in the `screenshots/` folder or appended below in PDF format (as per your preference).
-
----
-
 ## 📘 Outcome
 
 By completing this task, I have:
